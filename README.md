@@ -39,8 +39,6 @@ Follow these steps to download and run the Bookmark Manager application:
 2. Locate the `bookmark-manager.py` file.
 3. Double-click `bookmark-manager.py` to launch the application.
 
-**Note**: This program requires Python 3.x to run. Additionally, it uses external libraries that are not included in a `requirements.txt`. Users are responsible for ensuring all necessary dependencies are installed.
-
 ---
 
 ## Use Cases and Examples
